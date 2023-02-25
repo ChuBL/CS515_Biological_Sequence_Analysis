@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite it as below."
+authors:
+  - family-names: Chu
+    given-names: BL
+
+title: "CS515_Biological_Sequence_Analysis"
+version: 0.0.1
+date-released: 2023-02-24
